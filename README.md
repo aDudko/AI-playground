@@ -4,3 +4,4 @@
 
 - [Spring AI - RAG Expert](spring-ai-rag-expert/README.md)
 - [Spring AI - Image Generator](spring-ai-img-generator/README.md)
+- [Spring AI - Audio Generator](spring-ai-audio-generator/README.md)
