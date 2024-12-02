@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: spring-ai-img-generator
+    ai:
+        openai:
+            api-key: ${OPENAI_API_KEY}
